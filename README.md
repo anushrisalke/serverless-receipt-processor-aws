@@ -28,15 +28,15 @@ DynamoDB (Structured Receipt Data)
 SES (Email Notification)
 
 
-##  Technologies Used
+> Technologies Used
 
-AWS S3
-AWS Lambda (Python)
-AWS Textract
-AWS DynamoDB
-AWS SES
-CloudWatch Logs
-IAM
+-AWS S3
+-AWS Lambda (Python)
+-AWS Textract
+-AWS DynamoDB
+-AWS SES
+-CloudWatch Logs
+-IAM
 
 
 --Step-by-Step: How I Built the Serverless Receipt Processing System (AWS)--
